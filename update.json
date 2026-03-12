@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "releaseNotes": "🚀 Alpha Downloader v1.1.0\n\n✨ Fitur Baru & Peningkatan:\n• UI/UX Premium: Tampilan Dark Mode yang lebih bersih, elegan, dan minimalis.\n• Smart Auto-Update: Cek dan unduh pembaruan versi langsung dari dalam aplikasi.\n• Smooth Progress Bar: Animasi unduhan real-time yang lebih halus dengan warna gradasi.\n• Redesain Preview: Kartu video baru bergaya modern dengan tombol aksi cepat (pil resolusi).\n• System UI Fix: Ikon status bar & baterai kini beradaptasi sempurna dengan tema gelap.\n\n✅ Tetap mendukung unduhan HD & MP3 dari Facebook, YouTube, TikTok, dan Instagram secara gratis!",
-  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.1.0/AlphaDownloader_v1.1.0.apk",
+  "latestVersion": "1.2.0",
+  "releaseNotes": "🚀 Alpha Downloader v1.2.0\n\nPembaruan kelas profesional untuk stabilitas dan kecerdasan aplikasi!\n\n✨ Yang Baru:\n• 🎵 Smart Audio Extractor: Pisahkan otomatis tombol Video & Audio (MP3). File musik kini tersimpan langsung dalam format .mp3.\n• 📡 Dynamic Server Connection: Anti-error jaringan! Koneksi ke server kini diperbarui secara otomatis dan dinamis.\n• 📊 Firebase Integration: Sistem analitik Google ditambahkan untuk performa aplikasi yang lebih stabil.\n• ✨ UI/UX Polishing: Penyempurnaan jarak antar tombol resolusi agar lebih rapi dan nyaman dipandang.\n\nSegera update untuk pengalaman mengunduh yang lebih mulus!",
+  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.2.0/AlphaDownloader_v1.2.0.apk",
   "isMandatory": false
 }
