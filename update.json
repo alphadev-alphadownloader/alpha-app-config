@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.0",
-  "releaseNotes": "🚀 Alpha Downloader v1.2.0\n\nPembaruan kelas profesional untuk stabilitas dan kecerdasan aplikasi!\n\n✨ Yang Baru:\n• 🎵 Smart Audio Extractor: Pisahkan otomatis tombol Video & Audio (MP3). File musik kini tersimpan langsung dalam format .mp3.\n• 📡 Dynamic Server Connection: Anti-error jaringan! Koneksi ke server kini diperbarui secara otomatis dan dinamis.\n• 📊 Firebase Integration: Sistem analitik Google ditambahkan untuk performa aplikasi yang lebih stabil.\n• ✨ UI/UX Polishing: Penyempurnaan jarak antar tombol resolusi agar lebih rapi dan nyaman dipandang.\n\nSegera update untuk pengalaman mengunduh yang lebih mulus!",
-  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.2.0/AlphaDownloader_v1.2.0.apk",
+  "latestVersion": "1.2.1",
+  "releaseNotes": "Pembaruan Antarmuka Pengguna (UI/UX):\n- Penerapan Sticky Header pada logo dan deskripsi utama.\n- Desain ulang tombol resolusi dan format musik dengan warna gradien signature Alpha Downloader.\n- Optimalisasi tipografi tombol menggunakan huruf kapital (Uppercase) dan spasi simetris.\n- Pembaruan copywriting dengan tata bahasa yang lebih mengalir dan profesional.\n- Penyesuaian jarak dan tata letak agar proporsional di berbagai rasio layar (Responsif).\n\nPerbaikan Sistem:\n- Menyempurnakan parameter deteksi pembaruan otomatis agar notifikasi update lebih akurat.",
+  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.2.1/AlphaDownloader_v1.2.1.apk",
   "isMandatory": false
 }
