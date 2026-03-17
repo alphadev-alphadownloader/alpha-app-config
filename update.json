@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.1",
-  "releaseNotes": "Pembaruan Antarmuka Pengguna (UI/UX):\n- Penerapan Sticky Header pada logo dan deskripsi utama.\n- Desain ulang tombol resolusi dan format musik dengan warna gradien signature Alpha Downloader.\n- Optimalisasi tipografi tombol menggunakan huruf kapital (Uppercase) dan spasi simetris.\n- Pembaruan copywriting dengan tata bahasa yang lebih mengalir dan profesional.\n- Penyesuaian jarak dan tata letak agar proporsional di berbagai rasio layar (Responsif).\n\nPerbaikan Sistem:\n- Menyempurnakan parameter deteksi pembaruan otomatis agar notifikasi update lebih akurat.",
-  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.2.1/AlphaDownloader_v1.2.1.apk",
+  "latestVersion": "1.2.2",
+  "releaseNotes": "Pembaruan Sistem Utama:\n- Penambahan Sistem Pemeliharaan (Maintenance Mode): Aplikasi kini dapat mendeteksi status peladen (server) secara real-time untuk mencegah error saat sedang ada perbaikan.\n- Manajemen Koneksi Cerdas: Optimalisasi respon aplikasi ketika peladen sedang offline, memberikan notifikasi yang lebih informatif.\n- Konfigurasi Server Dinamis: Pembaruan infrastruktur jaringan agar koneksi pengunduhan tetap stabil dalam jangka panjang.",
+  "downloadUrl": "https://github.com/alphadev-alphadownloader/alpha-app-config/releases/download/v1.2.2/AlphaDownloader_v1.2.2.apk",
   "isMandatory": false
 }
